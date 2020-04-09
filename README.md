@@ -8,6 +8,9 @@
 <!-- 频道导航头 -->
 <!--#include virtual="/special/sp/post_1603_header.html" -->
 ```
+```
+多页面只需在src/pages/新建文件夹，内部文件依然保留index命名。
+```
 
 ### 用户配置
 ```js
