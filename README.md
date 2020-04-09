@@ -10,6 +10,8 @@
 ```
 ```
 多页面只需在src/pages/新建文件夹，内部文件依然保留index命名。
+默认localhost:8080 访问的是index
+其他页面路径格式为 `localhost:8080/文件夹名称.html`
 ```
 
 ### 用户配置
